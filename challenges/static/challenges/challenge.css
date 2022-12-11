@@ -1,0 +1,13 @@
+h1,
+h2 {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+p {
+  text-align: center;
+
+  color: tomato;
+  font-size: 3rem;
+  font-weight: bolder;
+}
